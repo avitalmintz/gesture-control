@@ -1,6 +1,6 @@
 # Gesture Control
 
-Control your Mac and play with your hands using just a webcam. Built on
+Control your Mac with your hands using just a webcam. Built on
 [MediaPipe](https://developers.google.com/mediapipe) hand tracking and OpenCV.
 The same 21-point hand skeleton drives four separate apps: a volume and
 media controller, an air mouse, a Fruit Ninja game, and an air-paint canvas.
